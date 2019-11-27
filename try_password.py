@@ -9,3 +9,5 @@ while count > 0:
 	else:
 		if count > 0:
 			print('密碼錯誤! 你還有' , count , '機會')
+		else:
+			print('Game Over')
